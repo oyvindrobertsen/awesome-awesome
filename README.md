@@ -10,6 +10,7 @@ libraries, resources and shiny things for various languages and frameworks.
     - [Java](#java)
     - [JavaScript](#javascript)
     - [Clojure](#clojure)
+    - [Go](#go)
 
 ## PHP
 
@@ -40,3 +41,7 @@ libraries, resources and shiny things for various languages and frameworks.
 ## Clojure
 
 - [Awesome Clojure](http://github.com/razum2um/awesome-clojure)
+
+## Go
+
+- [Awesome Go](http://github.com/avelino/awesome-go)
