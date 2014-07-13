@@ -32,6 +32,7 @@ libraries, resources and shiny things for various languages and frameworks.
 ## Java
 
 - [Awesome Java](http://github.com/akullpp/awesome-java)
+- [Awesome Android](https://github.com/JStumpp/awesome-android)
 
 ## JavaScript
 
