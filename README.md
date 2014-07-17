@@ -11,6 +11,7 @@ libraries, resources and shiny things for various languages and frameworks.
     - [Python](#python)
     - [Ruby](#ruby)    
     - [Scala](#scala)
+    - [Swift](#swift)
 
 ## Clojure
 
@@ -46,3 +47,7 @@ libraries, resources and shiny things for various languages and frameworks.
 ## Scala
 
 - [Awesome Scala](http://github.com/lauris/awesome-scala)
+ 
+## Swift
+
+- [Awesome Swift](https://awesome-swift.zeef.com/robin.eggenkamp)
