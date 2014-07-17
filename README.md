@@ -3,31 +3,23 @@ A curated list of amazingly awesome curated lists of amazingly awesome
 libraries, resources and shiny things for various languages and frameworks.
 
 - [Awesome Awesome](#awesome-awesome)
-    - [PHP](#php)
-    - [Python](#python)
-    - [Scala](#scala)
-    - [Ruby](#ruby)
-    - [Java](#java)
-    - [JavaScript](#javascript)
     - [Clojure](#clojure)
     - [Go](#go)
+    - [Java](#java)
+    - [JavaScript](#javascript)    
+    - [PHP](#php)
+    - [Python](#python)
+    - [Ruby](#ruby)    
+    - [Scala](#scala)
+    - [Swift](#swift)
 
-## PHP
+## Clojure
 
-- [Awesome PHP](http://github.com/ziadoz/awesome-php)
+- [Awesome Clojure](http://github.com/razum2um/awesome-clojure)
 
-## Python
+## Go
 
-- [Awesome Python](http://github.com/vinta/awesome-python)
-
-## Scala
-
-- [Awesome Scala](http://github.com/lauris/awesome-scala)
-
-## Ruby
-
-- [Awesome Ruby (markets)](http://github.com/markets/awesome-ruby)
-- [Awesome Ruby (Sdogruyol)](http://github.com/Sdogruyol/awesome-ruby)
+- [Awesome Go](http://github.com/avelino/awesome-go)
 
 ## Java
 
@@ -39,10 +31,23 @@ libraries, resources and shiny things for various languages and frameworks.
 - [Awesome JavaScript](http://github.com/sorrycc/awesome-javascript)
 - [Awesome Node.js](http://github.com/vndmtrx/awesome-nodejs)
 
-## Clojure
+## PHP
 
-- [Awesome Clojure](http://github.com/razum2um/awesome-clojure)
+- [Awesome PHP](http://github.com/ziadoz/awesome-php)
 
-## Go
+## Python
 
-- [Awesome Go](http://github.com/avelino/awesome-go)
+- [Awesome Python](http://github.com/vinta/awesome-python)
+
+## Ruby
+
+- [Awesome Ruby (markets)](http://github.com/markets/awesome-ruby)
+- [Awesome Ruby (Sdogruyol)](http://github.com/Sdogruyol/awesome-ruby)
+
+## Scala
+
+- [Awesome Scala](http://github.com/lauris/awesome-scala)
+ 
+## Swift
+
+- [Awesome Swift](https://awesome-swift.zeef.com/robin.eggenkamp)
