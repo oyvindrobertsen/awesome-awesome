@@ -5,6 +5,7 @@ libraries, resources and shiny things for various languages and frameworks.
 - [Awesome Awesome](#awesome-awesome)
     - [C] (#c)
     - [Clojure](#clojure)
+    - [Common Lisp](#common lisp)
     - [Go](#go)
     - [Java](#java)
     - [JavaScript](#javascript)    
@@ -21,6 +22,10 @@ libraries, resources and shiny things for various languages and frameworks.
 ## Clojure
 
 - [Awesome Clojure](http://github.com/razum2um/awesome-clojure)
+
+## Common Lisp
+
+- [Awesome Common Lisp](https://github.com/kozross/awesome-cl)
 
 ## Go
 
