@@ -8,10 +8,10 @@ libraries, resources and shiny things for various languages and frameworks.
     - [Common Lisp](#common lisp)
     - [Go](#go)
     - [Java](#java)
-    - [JavaScript](#javascript)    
+    - [JavaScript](#javascript)
     - [PHP](#php)
     - [Python](#python)
-    - [Ruby](#ruby)    
+    - [Ruby](#ruby)
     - [Scala](#scala)
     - [Swift](#swift)
 
@@ -57,7 +57,7 @@ libraries, resources and shiny things for various languages and frameworks.
 ## Scala
 
 - [Awesome Scala](http://github.com/lauris/awesome-scala)
- 
+
 ## Swift
 
 - [Awesome Swift](https://awesome-swift.zeef.com/robin.eggenkamp)
