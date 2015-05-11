@@ -13,6 +13,7 @@ libraries, resources and shiny things for various languages and frameworks.
     - [Python](#python)
     - [Ruby](#ruby)    
     - [Scala](#scala)
+    - [SEO](#seo)
     - [Swift](#swift)
 
 ## C
@@ -57,6 +58,11 @@ libraries, resources and shiny things for various languages and frameworks.
 ## Scala
 
 - [Awesome Scala](http://github.com/lauris/awesome-scala)
+
+## SEO
+
+- [Search Engine Optimization (SEO)](https://github.com/marcobiedermann/search-engine-optimization)
+
  
 ## Swift
 
