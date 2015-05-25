@@ -3,7 +3,8 @@ A curated list of amazingly awesome curated lists of amazingly awesome
 libraries, resources and shiny things for various languages and frameworks.
 
 - [Awesome Awesome](#awesome-awesome)
-    - [C] (#c)
+    - [Awesome Awesome list lists](#awesome-awesome-list-lists)
+    - [C](#c)
     - [Clojure](#clojure)
     - [Common Lisp](#common lisp)
     - [Go](#go)
@@ -15,6 +16,14 @@ libraries, resources and shiny things for various languages and frameworks.
     - [Scala](#scala)
     - [SEO](#seo)
     - [Swift](#swift)
+
+## Awesome Awesome List Lists
+
+Links to other lists of awesome lists.
+
+ - [Awesome](https://github.com/sindresorhus/awesome)
+ - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+
 
 ## C
 
