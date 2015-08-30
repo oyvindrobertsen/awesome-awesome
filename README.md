@@ -4,6 +4,7 @@ libraries, resources and shiny things for various languages and frameworks.
 
 - [Awesome Awesome](#awesome-awesome)
     - [Awesome Awesome list lists](#awesome-awesome-list-lists)
+    - [AutoIt](#autoit)
     - [C](#c)
     - [Clojure](#clojure)
     - [Common Lisp](#common lisp)
@@ -24,6 +25,9 @@ Links to other lists of awesome lists.
  - [Awesome](https://github.com/sindresorhus/awesome)
  - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
+## AutoIt
+
+- [Awesome AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
 
 ## C
 
