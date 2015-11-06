@@ -8,8 +8,8 @@ libraries, resources and shiny things for various languages and frameworks.
     - [C](#c)
     - [Clojure](#clojure)
     - [Common Lisp](#common lisp)
-    - [Internet of Things](#internet-of-things)
     - [Go](#go)
+    - [Internet of Things](#internet-of-things)
     - [Java](#java)
     - [JavaScript](#javascript)
     - [PHP](#php)
@@ -42,13 +42,13 @@ Links to other lists of awesome lists.
 
 - [Awesome Common Lisp](https://github.com/kozross/awesome-cl)
 
-## Internet of Things
-
-- [Awesome IoT](https://github.com/HQarroum/awesome-iot)
-
 ## Go
 
 - [Awesome Go](http://github.com/avelino/awesome-go)
+
+## Internet of Things
+
+- [Awesome IoT](https://github.com/HQarroum/awesome-iot)
 
 ## Java
 
