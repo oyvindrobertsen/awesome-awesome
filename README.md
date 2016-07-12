@@ -42,6 +42,10 @@ Links to other lists of awesome lists.
 
 - [Awesome Common Lisp](https://github.com/kozross/awesome-cl)
 
+## Cryptography
+
+- [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
+
 ## Go
 
 - [Awesome Go](http://github.com/avelino/awesome-go)
