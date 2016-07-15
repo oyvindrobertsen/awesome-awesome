@@ -8,6 +8,7 @@ libraries, resources and shiny things for various languages and frameworks.
     - [C](#c)
     - [Clojure](#clojure)
     - [Common Lisp](#common lisp)
+    - [Cryptography](#cryptography)
     - [Go](#go)
     - [Internet of Things](#internet-of-things)
     - [Java](#java)
