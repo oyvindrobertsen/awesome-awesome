@@ -8,6 +8,7 @@ libraries, resources and shiny things for various languages and frameworks.
     - [C](#c)
     - [Clojure](#clojure)
     - [Common Lisp](#common lisp)
+    - [Cryptography](#cryptography)
     - [Go](#go)
     - [Internet of Things](#internet-of-things)
     - [Java](#java)
@@ -41,6 +42,10 @@ Links to other lists of awesome lists.
 ## Common Lisp
 
 - [Awesome Common Lisp](https://github.com/kozross/awesome-cl)
+
+## Cryptography
+
+- [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
 
 ## Go
 
