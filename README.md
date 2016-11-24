@@ -13,6 +13,7 @@ libraries, resources and shiny things for various languages and frameworks.
     - [Internet of Things](#internet-of-things)
     - [Java](#java)
     - [JavaScript](#javascript)
+    - [Pentester](#pentester)
     - [PHP](#php)
     - [Python](#python)
     - [Ruby](#ruby)
@@ -64,6 +65,10 @@ Links to other lists of awesome lists.
 
 - [Awesome JavaScript](http://github.com/sorrycc/awesome-javascript)
 - [Awesome Node.js](http://github.com/vndmtrx/awesome-nodejs)
+
+## Pentester
+
+- [Awesome Pentester](https://github.com/m1guelpf/awesome-Pentester)
 
 ## PHP
 
